@@ -5,3 +5,5 @@ Outputs to csv file, filename hardcoded in script.
 Add <!--> to end of text file to run
 
 Use UTF-8.
+
+![image](https://i.imgur.com/bDfezKQ.png)
