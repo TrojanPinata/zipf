@@ -1,2 +1,7 @@
-# zipf
-A brief look at Zipf's law and some code to breakdown any text into word count and rank
+# Zipf's Law Demonstration
+I made this because Zipf's Law is pretty cool.
+
+Outputs to csv file, filename hardcoded in script.
+Add <!--> to end of text file to run
+
+Use UTF-8.
